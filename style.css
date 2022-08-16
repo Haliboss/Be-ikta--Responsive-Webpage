@@ -71,7 +71,7 @@ header .navi a:hover {
 
 .content .info h2 {
     color: rgb(0, 0, 0);
-    font-size: 50px;
+    font-size: 60px;
     /* text-transform: uppercase; */
     font-weight: 800;
     letter-spacing: 2px;
@@ -81,13 +81,13 @@ header .navi a:hover {
 
 .content .info h2 span {
     color: rgb(246, 7, 7);
-    font-size: 47px;
+    font-size: 55px;
     font-weight: 600;
 }
 
 .content .info p {
-    font-size: 15px;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 600;
     margin-bottom: 40px;
 }
 
@@ -150,7 +150,7 @@ label {
     }
 
     label:hover {
-        color: #fff;
+        color: rgb(255, 3, 3);
     }
 
     label .close-btn {
